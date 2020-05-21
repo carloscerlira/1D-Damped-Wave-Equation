@@ -5,4 +5,4 @@ The special case where the solution is harmonic was studied in the laboratory.
 
 # Documentation
 * The code directory contains the simulation.  
-* The presentation file contains the lab report where a brief explanation of the problem and yhe study of harmonic solutions in the lab can be found.
+* The presentation file contains the lab report where a brief explanation of the problem and the study of harmonic solutions in the lab can be found.
